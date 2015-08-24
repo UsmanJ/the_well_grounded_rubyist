@@ -1,1 +1,1 @@
-# Exercises from 'The well grounded Rubyist
+# Exercises from 'The well grounded Rubyist'
